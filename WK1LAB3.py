@@ -1,0 +1,22 @@
+a="malaika"
+print(a)
+name="malaika afzal"
+print(name)
+print(name[-2])
+print(name[11])
+print(name[3:5])
+print(name[3:1])
+print(name[:6])
+print(name[::2])
+print(name[::-2])
+print(name[-1:-13:-2])
+print(name[2:4:-2])
+print(name+",,,,,,")
+print(name*3)
+a=[1,2,3,4,5,65,"ali",6,7,7]
+s={1,2,3,4,5,"ali",6,7,8,8}
+t=(1,7,5,9,4,"ali",3,9)
+print(a.append(2))
+a[2]=888
+print(s.add(7777))
+print(t)
